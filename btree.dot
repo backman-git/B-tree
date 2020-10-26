@@ -1,0 +1,4 @@
+digraph g{
+node [shape = record,height=.1];
+root[label ="<f1> |1| <f0> |2| "]
+}
